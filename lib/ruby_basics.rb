@@ -3,7 +3,7 @@ def division(num1 = 12, num2 = 2)
 end
 
 def assign_variable(persons name = "")
-  
+  persons name
 end
 
 def argue
